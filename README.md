@@ -1,3 +1,5 @@
+<img width="479" height="603" alt="WATER" src="https://github.com/user-attachments/assets/f0b5ad1c-405b-44e9-8204-01830059fc49" />
+
 # Online Continuous Emission Monitoring System (OCEMS)
 
 ## 📌 Project Overview
